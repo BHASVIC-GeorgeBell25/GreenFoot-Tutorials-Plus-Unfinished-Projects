@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Scoreboard
-comment0.text=\r\n\ Keeps\ score.\r\n\ \r\n\ Andrea\ Stewart\ \r\n\ May\ 9,\ 2010\r\n
-comment1.params=score
-comment1.target=Scoreboard(java.lang.String)
-comment2.params=score
-comment2.target=void\ setText(java.lang.String)
-numComments=3

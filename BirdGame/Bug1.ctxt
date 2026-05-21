@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Bug1
-comment0.text=\ \r\n\ Andrea\ Stewart\r\n\ May\ 9,\ 2010\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\r\n\ Bug1s\ scurry\ horizontally\ across\ the\ screen,\ beginning\ from\r\n\ random\ coordinates\ on\ the\ left\ side\ of\ the\ screen.\ Each\ time\r\n\ they\ get\ to\ the\ left\ side,\ they\ switch\ back\ to\ the\ right\ side\r\n\ at\ a\ random\ coordinate.\r\n
-numComments=2
