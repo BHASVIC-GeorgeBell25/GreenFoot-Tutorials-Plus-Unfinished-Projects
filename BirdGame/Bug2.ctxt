@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bug2
+comment0.text=\r\n\ \r\n\ @Andrea\ Stewart\ \r\n\ @May\ 9,\ 2010\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Bug2s\ move\ in\ the\ opposite\ direction\ of\ Bug1s\ but\ \r\n\ share\ the\ same\ behavior.\r\n
+numComments=2

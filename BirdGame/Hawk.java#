@@ -1,0 +1,25 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+/**
+ * Write a description of class Hawk here.
+ * 
+ * Andrea Stewart
+ * May 9 2010
+ */
+
+public class Hawk1  extends Creature
+{
+    /**
+     * Hawks move horizontally across the screen
+     * and will eat a bird if it sees it
+     */
+    public void act() 
+    {
+       moveRight();
+        
+        if(getX()==99)
+        {
+            int x = Greenfoot.getRandomNumber(80);
+            setLocation(0, x);
+    }    
+}

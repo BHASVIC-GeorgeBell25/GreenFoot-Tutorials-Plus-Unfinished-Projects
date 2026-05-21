@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hawk1
+comment0.text=\r\n\ Hawks\ move\ horizontally\ across\ the\ screen\ at\ twice\ the\ speed\ of\r\n\ other\ creatures\ and\ will\ eat\ a\ bird\ if\ it\ sees\ it.\ When\ a\ Hawk\ \r\n\ reaches\ the\ edge\ of\ the\ screen,\ it\ will\ go\ back\ to\ the\ other\ side\r\n\ at\ a\ random\ height.\r\n\ HAWKS\ ARE\ ANIMATED.\ YES.\r\n\ Andrea\ Stewart\r\n\ May\ 9\ 2010\r\n
+comment1.params=
+comment1.target=Hawk1()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hawk2
+comment0.text=\r\n\ Hawk2s\ share\ the\ same\ behavior\ as\ Hawk1s\ but\ move\ from\ right\ to\ left.\r\n\ THEY\ ARE\ ANIMATED.\ AWESOME.\r\n\ \r\n\ Andrea\ Stewart\ \r\n\ May\ 9,\ 2010\r\n
+comment1.params=
+comment1.target=Hawk2()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
